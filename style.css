@@ -1,0 +1,160 @@
+* {margin: 0;padding: 0;}
+
+body{font-family: 'Montserrat', sans-serif;
+     background-color: #3aafa9;
+}
+
+#page {
+    min-height: 200px;
+    width: 60%;
+    min-width: 600px;
+    background: #DEF2F1;
+    margin: 50px auto;
+    padding: 30px;
+    color: #27aae1;
+    border-radius: 30px;
+    border-color: black;
+    border-style: solid;
+}
+
+.foto {
+    width: 15%;
+    min-width: 130px;
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+.contact-info-box {
+    width: 70.9%;
+    display: inline-block;
+
+}
+
+.nama {
+    margin-bottom: -5px;
+}
+.pekerjaan {
+    display: inline-block;
+}
+
+.contact-detail {
+    background: #27aae1;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 15PX;
+}
+
+#skill h3 {
+    border: 1px solid #2b717b;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#skill ul {
+    padding: 0 5px;
+    padding-left: 25px;
+    line-height: 25px;
+    font-size: 14px;
+    color: #000;
+}
+
+#pendidikan h3 {
+    border: 1px solid #2b717b;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#pendidikan table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+
+#pendidikan table tr.pendidikan-1 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 10px;
+}
+
+#pendidikan table tr.pendidikan-2 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 10px;
+}
+
+#pendidikan table tr.pendidikan-3 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 10px;
+}
+
+#pendidikan table tr.pendidikan-4 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 10px;
+}
+
+#pengalaman h3 {
+    border: 1px solid #2b717b;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#pengalaman table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+
+#pengalaman table tr.exp-1 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 10px;
+}
+
+#pengalaman table tr.exp-2 td:first-child {
+    width: 120px;
+    color: gray;
+}
+
+#pengalaman table tr.exp-3 td:first-child {
+    width: 120px;
+    color: gray;
+}
+
+#biodata h3 {
+    border: 1px solid #2b717b;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#biodata table td {
+    padding: 8px;
+    font-size: 15px;
+    color: #000;
+}
+
+#biodata table tr td:first-child {
+    width: 200px;
+}
+
+#biodata table tr td:nth-child(2) {
+    width: 300px;
+}
+
+#biodata table td ul {
+    padding-left: 15px;
+}
